@@ -1,0 +1,446 @@
+/* CSS For entire page */
+#layout-column_column-1 {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: flex-end;
+}
+
+.portlet-journal-content:nth-child(n+2) {
+    text-align: center;
+    max-width: 49%;
+}
+/* CSS For each web content display */
+
+.portlet-borderless.portlet-journal-content ul {
+	list-style:none;
+	margin: 0 auto;
+	padding: 0;
+	display: block;
+	
+}
+.portlet-borderless.portlet-journal-content ul li {
+	display: inline-block;
+	padding: 8px;
+	background:white;
+	margin:10px;
+}
+.portlet-borderless.portlet-journal-content ul li img {
+	display: block;
+        border: none;
+}
+.portlet-borderless.portlet-journal-content a {
+	text-decoration: none;
+        
+}
+
+#overlay9 {
+  background:rgba(0,0,0,0.7);
+  width:100%;
+  height:100%;
+  position:fixed;
+  top:0;
+  left:0;
+  display:none;
+  text-align:center;
+  z-index: 10000;
+}
+#overlay9 p {
+  color:white;
+}
+#mainnav {
+  z-index: 0;
+}
+#dockbar {
+  z-index: 0;
+}
+.videoWrapper9 {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper9 video {
+	position: absolute;
+	top: 8px;
+	left: 1%;
+	width: 97%;
+	height: 90%;
+}
+
+
+
+
+
+.portlet-borderless.portlet-journal-content ul {
+	list-style:none;
+	margin: 0 auto;
+	padding: 0;
+	display: block;
+	
+}
+.portlet-borderless.portlet-journal-content ul li {
+	display: inline-block;
+	padding: 8px;
+	background:white;
+	margin:10px;
+}
+.portlet-borderless.portlet-journal-content ul li img {
+	display: block;
+        border: none;
+}
+.portlet-borderless.portlet-journal-content a {
+	text-decoration: none;
+        
+}
+
+#overlay4 {
+  background:rgba(0,0,0,0.7);
+  width:100%;
+  height:100%;
+  position:fixed;
+  top:0;
+  left:0;
+  display:none;
+  text-align:center;
+  z-index: 10000;
+}
+#overlay4 p {
+  color:white;
+}
+#mainnav {
+  z-index: 0;
+}
+#dockbar {
+  z-index: 0;
+}
+.videoWrapper4 {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper4 video {
+	position: absolute;
+	top: 8px;
+	left: 1%;
+	width: 97%;
+	height: 90%;
+}
+
+
+
+
+
+
+.portlet-borderless.portlet-journal-content ul {
+	list-style:none;
+	margin: 0 auto;
+	padding: 0;
+	display: block;
+	
+}
+.portlet-borderless.portlet-journal-content ul li {
+	display: inline-block;
+	padding: 8px;
+	background:white;
+	margin:10px;
+}
+.portlet-borderless.portlet-journal-content ul li img {
+	display: block;
+        border: none;
+}
+.portlet-borderless.portlet-journal-content a {
+	text-decoration: none;
+        
+}
+
+#overlay0 {
+  background:rgba(0,0,0,0.7);
+  width:100%;
+  height:100%;
+  position:fixed;
+  top:0;
+  left:0;
+  display:none;
+  text-align:center;
+  z-index: 10000;
+}
+#overlay0 p {
+  color:white;
+}
+#mainnav {
+  z-index: 0;
+}
+#dockbar {
+  z-index: 0;
+}
+.videoWrapper0 {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper0 video {
+	position: absolute;
+	top: 8px;
+	left: 1%;
+	width: 97%;
+	height: 90%;
+}
+
+
+
+
+
+.portlet-borderless.portlet-journal-content ul {
+	list-style:none;
+	margin: 0 auto;
+	padding: 0;
+	display: block;
+	
+}
+.portlet-borderless.portlet-journal-content ul li {
+	display: inline-block;
+	padding: 8px;
+	background:white;
+	margin:10px;
+}
+.portlet-borderless.portlet-journal-content ul li img {
+	display: block;
+        border: none;
+}
+.portlet-borderless.portlet-journal-content a {
+	text-decoration: none;
+        
+}
+
+#overlay1 {
+  background:rgba(0,0,0,0.7);
+  width:100%;
+  height:100%;
+  position:fixed;
+  top:0;
+  left:0;
+  display:none;
+  text-align:center;
+  z-index: 10000;
+}
+#overlay1 p {
+  color:white;
+}
+#mainnav {
+  z-index: 0;
+}
+#dockbar {
+  z-index: 0;
+}
+.videoWrapper1 {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper1 video {
+	position: absolute;
+	top: 8px;
+	left: 1%;
+	width: 97%;
+	height: 90%;
+}
+
+
+
+
+
+
+#p_p_id_56_INSTANCE_ao4bF8StxGI7_ {
+ padding-top: 150px;
+}
+.portlet-borderless.portlet-journal-content ul {
+	list-style:none;
+	margin: 0 auto;
+	padding: 0;
+	display: block;
+	
+}
+.portlet-borderless.portlet-journal-content ul li {
+	display: inline-block;
+	padding: 8px;
+	background:white;
+	margin:10px;
+}
+.portlet-borderless.portlet-journal-content ul li img {
+	display: block;
+        border: none;
+}
+.portlet-borderless.portlet-journal-content a {
+	text-decoration: none;
+        
+}
+
+#overlay2 {
+  background:rgba(0,0,0,0.7);
+  width:100%;
+  height:100%;
+  position:fixed;
+  top:0;
+  left:0;
+  display:none;
+  text-align:center;
+  z-index: 10000;
+}
+#overlay2 p {
+  color:white;
+}
+#mainnav {
+  z-index: 0;
+}
+#dockbar {
+  z-index: 0;
+}
+.videoWrapper2 {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper2 video {
+	position: absolute;
+	top: 8px;
+	left: 1%;
+	width: 97%;
+	height: 90%;
+}
+
+
+
+
+
+
+
+.portlet-borderless.portlet-journal-content ul {
+	list-style:none;
+	margin: 0 auto;
+	padding: 0;
+	display: block;
+	
+}
+.portlet-borderless.portlet-journal-content ul li {
+	display: inline-block;
+	padding: 8px;
+	background:white;
+	margin:10px;
+}
+.portlet-borderless.portlet-journal-content ul li img {
+	display: block;
+        border: none;
+}
+.portlet-borderless.portlet-journal-content a {
+	text-decoration: none;
+        
+}
+
+#overlay5 {
+  background:rgba(0,0,0,0.7);
+  width:100%;
+  height:100%;
+  position:fixed;
+  top:0;
+  left:0;
+  display:none;
+  text-align:center;
+  z-index: 10000;
+}
+#overlay5 p {
+  color:white;
+}
+#mainnav {
+  z-index: 0;
+}
+#dockbar {
+  z-index: 0;
+}
+.videoWrapper5 {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper5 video {
+	position: absolute;
+	top: 8px;
+	left: 1%;
+	width: 97%;
+	height: 90%;
+}
+
+
+
+
+
+
+
+.portlet-borderless.portlet-journal-content ul {
+	list-style:none;
+	margin: 0 auto;
+	padding: 0;
+	display: block;
+	
+}
+.portlet-borderless.portlet-journal-content ul li {
+	display: inline-block;
+	padding: 8px;
+	background:white;
+	margin:10px;
+}
+.portlet-borderless.portlet-journal-content ul li img {
+	display: block;
+        border: none;
+}
+.portlet-borderless.portlet-journal-content a {
+	text-decoration: none;
+        
+}
+
+#overlay3 {
+  background:rgba(0,0,0,0.7);
+  width:100%;
+  height:100%;
+  position:fixed;
+  top:0;
+  left:0;
+  display:none;
+  text-align:center;
+  z-index: 10000;
+}
+#overlay3 p {
+  color:white;
+}
+#mainnav {
+  z-index: 0;
+}
+#dockbar {
+  z-index: 0;
+}
+.videoWrapper3 {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper3 video {
+	position: absolute;
+	top: 8px;
+	left: 1%;
+	width: 97%;
+	height: 90%;
+}
+
+
+
+
+
+
+
+
